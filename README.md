@@ -2,7 +2,7 @@
 将斐讯DC1原8266替换为NRF24M的mysensors固件代码。
 NRF24M由huex制作。
 
-本代码需要mysensors2.3.3, Bounce2作为前置
+本代码需要mysensors2.3.2, Bounce2作为前置
 
 引脚对应:  
 7 -> MainKEY  

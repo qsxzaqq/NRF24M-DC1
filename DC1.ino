@@ -57,7 +57,7 @@ void setup() {
 }
 
 void presentation()  {
-  sendSketchInfo("卧室3斐讯DC1", "1.0");
+  sendSketchInfo("斐讯DC1", "1.0");
   present(1, S_LIGHT);
   present(2, S_LIGHT);
   present(3, S_LIGHT);
